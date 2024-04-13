@@ -1,0 +1,33 @@
+/home/bio/job_scraper/
+|-- Data_Seattle,\ Wa_Jobs.csv
+|-- Data_Seattle_Jobs.csv
+|-- README.md
+|-- data
+|-- dir_tree.txt
+|-- docs
+|-- job_scrape
+|   |-- __init__.py
+|   |-- __pycache__
+|   |   |-- file_operations.cpython-310.pyc
+|   |   |-- user_input.cpython-310.pyc
+|   |   `-- web_scraping.cpython-310.pyc
+|   |-- file_operations.py
+|   |-- main.py
+|   |-- user_input.py
+|   `-- web_scraping.py
+|-- results
+|-- scripts
+|-- setup.py
+|-- src.egg-info
+|   |-- PKG-INFO
+|   |-- SOURCES.txt
+|   |-- dependency_links.txt
+|   `-- top_level.txt
+`-- tests
+    |-- __init__.py
+    |-- __pycache__
+    |   |-- __init__.cpython-310.pyc
+    |   `-- test_web_scraping.cpython-310.pyc
+    `-- test_web_scraping.py
+
+9 directories, 21 files
